@@ -13,7 +13,7 @@ npm install readmeio --save
 npm -i
 ```
 
-## Run NodeJS
+# Run NodeJS
 ```
 node index.js
 ```
